@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProfolio/ViewController.swift"
+            timestampString = "526640923.200737"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProfolio/ViewController.swift"
+            timestampString = "526640846.922481"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "ViewController"
+            landmarkType = "4">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyProfolio/EntryFormViewController.swift"
+            timestampString = "526641781.587667"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "EntryFormViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProfolio.EntryFormViewController.theChosen.getter : Swift.Optional&lt;MyProfolio.Form&gt;"
+                  moduleName = "MyProfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wongjosh/Desktop/MyProfolios/MyProfolio/EntryFormViewController.swift"
+                  timestampString = "526642273.352229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProfolio.EntryFormViewController.theChosen.setter : Swift.Optional&lt;MyProfolio.Form&gt;"
+                  moduleName = "MyProfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wongjosh/Desktop/MyProfolios/MyProfolio/EntryFormViewController.swift"
+                  timestampString = "526642273.356427"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProfolio.EntryFormViewController.init (style : __C.UITableViewStyle) -&gt; MyProfolio.EntryFormViewController"
+                  moduleName = "MyProfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wongjosh/Desktop/MyProfolios/MyProfolio/EntryFormViewController.swift"
+                  timestampString = "526642273.358815"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProfolio.EntryFormViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MyProfolio.EntryFormViewController"
+                  moduleName = "MyProfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wongjosh/Desktop/MyProfolios/MyProfolio/EntryFormViewController.swift"
+                  timestampString = "526642273.360933"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyProfolio.EntryFormViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MyProfolio.EntryFormViewController&gt;"
+                  moduleName = "MyProfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wongjosh/Desktop/MyProfolios/MyProfolio/EntryFormViewController.swift"
+                  timestampString = "526642273.362847"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
